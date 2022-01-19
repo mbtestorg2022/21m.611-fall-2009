@@ -1,0 +1,17 @@
+---
+content_type: resource
+description: A collage representing Lady Macbeth and her ambition, which drives her
+  and her husband to ruin.
+file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21m-611-foundations-of-theater-practice-fall-2009/ed659a55f8fa864c14086132f1e7a8d1_collage.jpg
+file_type: image/jpeg
+image_metadata:
+  caption: A collage representing Lady Macbeth and her ambition, which drives her
+    and her husband to ruin.
+  credit: 'Credit: Photo and project by an anonymous MIT student.'
+  image-alt: A woman's eyes peek out between two hands wearing pink and purple nail
+    polish. Red paper squares, patches of purple and orange sparkles, and dried leaves
+    and flowers surround and overlay the face.
+resourcetype: Image
+title: Lady Macbeth and her ambition
+uid: ed659a55-f8fa-864c-1408-6132f1e7a8d1
+---
