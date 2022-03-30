@@ -11,6 +11,7 @@ image_metadata:
   image-alt: A woman's eyes peek out between two hands wearing pink and purple nail
     polish. Red paper squares, patches of purple and orange sparkles, and dried leaves
     and flowers surround and overlay the face.
+parent_uid: 2a33c1f3-620e-8d1f-eb0b-791e7076de38
 resourcetype: Image
 title: Lady Macbeth and her ambition
 uid: ed659a55-f8fa-864c-1408-6132f1e7a8d1
